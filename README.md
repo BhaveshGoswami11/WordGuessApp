@@ -71,18 +71,6 @@ Connect on GitHub or LinkedIn
 📜 License
 This project is open source and available under the MIT License.
 
-yaml
-Copy code
-
----
-
-Would you like me to:
-- ✅ Make it **Markdown-preview optimized** for GitHub (with badges and color emojis nicely aligned),  
-or  
-- 💎 Make it **portfolio-style**, where it looks like a polished app store page with sections like “About the App,” “Screenshots,” and “How It Works”?
-
-
-
 
 
 
